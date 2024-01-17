@@ -1,7 +1,7 @@
 // キャッシュファイルの指定
 var CACHE_NAME = 'pwa-sample-caches';
 var urlsToCache = [
-    'https://komorisoto.github.io/helloworld/',
+    '/komorisoto.github.io/helloworld/',
 ];
 
 // インストール処理
